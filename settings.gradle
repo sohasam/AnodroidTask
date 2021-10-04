@@ -1,0 +1,2 @@
+rootProject.name='AnodroidTask'
+include ':app'
